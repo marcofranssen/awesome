@@ -497,6 +497,7 @@
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 - [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [Code Signing](https://github.com/marcofranssen/awesome-code-signing#readme) - Securing your software supply chain using Code signing.
 
 ## Content Management Systems
 
